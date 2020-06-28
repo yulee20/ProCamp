@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="037849ec-870c-48fb-93b7-b936f3b25971" name="Default Changelist" comment="update .gitignore file">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dwcQqLfyI5ligU8JwtlQYRfHen" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.FirstTest">
+    <configuration name="FirstTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.globallogic.FirstTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FirstTest.simpleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.globallogic.FirstTest.simpleTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.FirstTest" />
+        <item itemvalue="Gradle.FirstTest.simpleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="037849ec-870c-48fb-93b7-b936f3b25971" name="Default Changelist" comment="" />
+      <created>1593339582503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593339582503</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update .gitignore file">
+      <created>1593369785627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593369785627</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update .gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update .gitignore file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593339687552">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="427" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.808@0.23.1440.808" timestamp="1593339687552" />
+    <state x="408" y="164" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1593339725999">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="408" y="164" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.808@0.23.1440.808" timestamp="1593339725999" />
+    <state x="344" y="24" key="CommitChangelistDialog2" timestamp="1593369983650">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="344" y="24" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1593369983650" />
+    <state width="1398" height="325" key="GridCell.Tab.0.bottom" timestamp="1593363918478">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="325" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1593363918478" />
+    <state width="1398" height="325" key="GridCell.Tab.0.center" timestamp="1593363918477">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="325" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1593363918477" />
+    <state width="1398" height="325" key="GridCell.Tab.0.left" timestamp="1593363918477">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="325" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1593363918477" />
+    <state width="1398" height="325" key="GridCell.Tab.0.right" timestamp="1593363918478">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="325" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1593363918478" />
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1593339816434">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1593339816434" />
+    <state x="497" y="162" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1593369989790">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="497" y="162" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.23.1440.808@0.23.1440.808" timestamp="1593369989790" />
+    <state x="385" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1593357118265">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="385" y="155" width="670" height="676" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1593357118265" />
+  </component>
+</project>
